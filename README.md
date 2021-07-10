@@ -8,7 +8,7 @@
 ### the appication is deployed here
 
 ###The application looks like the below screen shot.
-
+![Wirk-Day-Planner-Screenshot](https://user-images.githubusercontent.com/79011370/125154531-f8c0fb80-e18c-11eb-9044-5666ed4797a5.JPG)
 
 
 
