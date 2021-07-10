@@ -1,7 +1,7 @@
 ## Your-Personalised-Work-Day-Scheduler
 
 1. The application is created using javasript, web API's and third party API's.
-2. The the user input "work description" will captured and stored in the local storage when the save button is press.
+2. The the user input "work description" will be captured and stored in the local storage when the save button is press.
 3. The "work description" will not be lost even when the page is refreshed.
 4. The "work description" will only be cleared if the user input is deleted and then the save button is clicked.
 
